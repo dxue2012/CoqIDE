@@ -8,3 +8,6 @@ Should work well on non-gui version of vim on unix systems.
 
 See comments at beginning of coq_IDE.vim for more informations.
 
+Note that the command to enable key bindings in .vimrc is:
+
+let g:CoqIDEDefaultMap
