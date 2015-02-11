@@ -10,5 +10,4 @@ See comments at beginning of coq_IDE.vim for more informations.
 
 Note that the command to enable key bindings in .vimrc is:
 
-`let g:CoqIDEDefaultMap
-
+let g:CoqIDEDefaultMap
